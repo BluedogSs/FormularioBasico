@@ -1,12 +1,21 @@
 form { 
-    background-color: #fff;
+    background-color: rgb(91, 168, 173);
     border-radius: 6px;
-    color: #999;
+    color: rgb(37, 11, 11);
     font-size: 12px;
     padding: 24px;
     margin: 0 auto; 
     width:500px;
     }
+
+body{
+    height: 665px;
+    background-image: url("https://clinicadentalbarqueta.com/wp-content/uploads/2014/03/fondo-formulario.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
 .btn{
     border-radius: 3px;
     display: inline-block;
